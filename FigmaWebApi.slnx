@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="Src/FigmaWebApi80/FigmaWebApi80.csproj" />
+    <Project Path="Src/FigmaWebApi90/FigmaWebApi90.csproj" />
+    <Project Path="Src/FigmaWebApiShare/FigmaWebApiShare.shproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="Test/FigmaWebApiUnitTest80/FigmaWebApiUnitTest80.csproj" Id="a8bbbcca-a7fc-4dcc-97b7-ba5482e02e39" />
+    <Project Path="Test/FigmaWebApiUnitTest90/FigmaWebApiUnitTest90.csproj" Id="711010d3-406e-4988-b9e4-4e7ec46102b9" />
+    <Project Path="Test/FigmaWebApiUnitTestShare/FigmaWebApiUnitTestShare.shproj" Id="c5d48cba-042d-4dca-a136-a99f0172f69d" />
+  </Folder>
+</Solution>
