@@ -9,10 +9,10 @@
     <Import_RootNamespace>FigmaWebApi</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)Health.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Model\HealthModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\SourceGenerationContext.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Figma.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\UserModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)User.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Usings.cs" />
   </ItemGroup>
 </Project>

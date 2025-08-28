@@ -10,7 +10,7 @@
     //    typeof(BooleanJsonConverter) ]
     )]
 
-[JsonSerializable(typeof(HealthModel))]
+[JsonSerializable(typeof(UserModel))]
 
 internal partial class SourceGenerationContext : JsonSerializerContext
 { }
