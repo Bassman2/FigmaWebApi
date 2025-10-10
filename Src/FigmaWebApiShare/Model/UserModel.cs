@@ -1,5 +1,8 @@
-﻿namespace FigmaWebApi.Model;
+﻿using WebServiceClient.Attributes;
 
+namespace FigmaWebApi.Model;
+
+[CastAttribute("User")]
 internal class UserModel
 {
     [JsonPropertyName("id")]
