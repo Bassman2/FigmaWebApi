@@ -1,0 +1,1 @@
+nuget pack FigmaWebApi.nuspec -properties Configuration=Release
