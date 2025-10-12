@@ -2,14 +2,14 @@
 _layout: landing
 ---
 
-## JenkinsWebApi 
+## FigmaWebApi 
 
-JenkinsWebApi is a .NET API for the Jenkins web service.	
+FigmaWebApi is a .NET API for the Figma web service.	
 		
 ### Getting Started
 
 
-To get started, add the JenkinsWebApi package to your project.
+To get started, add the FigmaWebApi package to your project.
 
 
 
