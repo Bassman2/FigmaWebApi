@@ -17,16 +17,13 @@
     <tags>API Figma</tags>
     <readme>docs\README.md</readme>
     <dependencies>
-      <group targetFramework=".NET10.0" />
       <group targetFramework=".NET9.0" />
       <group targetFramework=".NET8.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="..\Src\FigmaWebApi100\bin\Release\net10.0\**" target="lib/net10.0" />
     <file src="..\Src\FigmaWebApi90\bin\Release\net9.0\**" target="lib/net9.0" />
     <file src="..\Src\FigmaWebApi80\bin\Release\net8.0\**" target="lib/net8.0" />
-    <!-- <file src="..\Doc\FigmaWebApiDoc\Help\FigmaWebApi.chm" target="content" /> -->
     <file src="..\README.md" target="docs\" />
     <file src="..\LICENSE" target="content" />
   </files>
