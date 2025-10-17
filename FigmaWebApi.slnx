@@ -1,6 +1,5 @@
 <Solution>
   <Folder Name="/Src/">
-    <Project Path="Src/FigmaWebApi100/FigmaWebApi100.csproj" />
     <Project Path="Src/FigmaWebApi80/FigmaWebApi80.csproj" />
     <Project Path="Src/FigmaWebApi90/FigmaWebApi90.csproj" />
     <Project Path="Src/FigmaWebApiShare/FigmaWebApiShare.shproj" />
